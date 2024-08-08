@@ -1,0 +1,184 @@
+{
+    "Artikelbestand": [
+        {
+            "Artikelnummer": 1001,
+            "Bezeichnung": "Unterhose",
+            "Preis": 12,
+            "Bestand": 28
+        },
+        {
+            "Artikelnummer": 1002,
+            "Bezeichnung": "Shirt",
+            "Preis": 55,
+            "Bestand": 90
+        },
+        {
+            "Artikelnummer": 1003,
+            "Bezeichnung": "Socken",
+            "Preis": 5,
+            "Bestand": 8
+        },
+        {
+            "Artikelnummer": 1004,
+            "Bezeichnung": "Hose",
+            "Preis": 45,
+            "Bestand": 60
+        },
+        {
+            "Artikelnummer": 1005,
+            "Bezeichnung": "Jacke",
+            "Preis": 120,
+            "Bestand": 20
+        },
+        {
+            "Artikelnummer": 1006,
+            "Bezeichnung": "Mütze",
+            "Preis": 15,
+            "Bestand": 50
+        },
+        {
+            "Artikelnummer": 1007,
+            "Bezeichnung": "Schal",
+            "Preis": 25,
+            "Bestand": 35
+        },
+        {
+            "Artikelnummer": 1008,
+            "Bezeichnung": "Handschuhe",
+            "Preis": 30,
+            "Bestand": 40
+        },
+        {
+            "Artikelnummer": 1009,
+            "Bezeichnung": "Gürtel",
+            "Preis": 20,
+            "Bestand": 55
+        },
+        {
+            "Artikelnummer": 1010,
+            "Bezeichnung": "Schuhe",
+            "Preis": 75,
+            "Bestand": 25
+        },
+        {
+            "Artikelnummer": 1011,
+            "Bezeichnung": "Stiefel",
+            "Preis": 95,
+            "Bestand": 10
+        },
+        {
+            "Artikelnummer": 1012,
+            "Bezeichnung": "Sandalen",
+            "Preis": 40,
+            "Bestand": 15
+        },
+        {
+            "Artikelnummer": 1013,
+            "Bezeichnung": "Bluse",
+            "Preis": 60,
+            "Bestand": 45
+        },
+        {
+            "Artikelnummer": 1014,
+            "Bezeichnung": "Kleid",
+            "Preis": 80,
+            "Bestand": 30
+        },
+        {
+            "Artikelnummer": 1015,
+            "Bezeichnung": "Rock",
+            "Preis": 50,
+            "Bestand": 25
+        },
+        {
+            "Artikelnummer": 1016,
+            "Bezeichnung": "Jeans",
+            "Preis": 70,
+            "Bestand": 50
+        },
+        {
+            "Artikelnummer": 1017,
+            "Bezeichnung": "Shorts",
+            "Preis": 35,
+            "Bestand": 60
+        },
+        {
+            "Artikelnummer": 1018,
+            "Bezeichnung": "Pullover",
+            "Preis": 65,
+            "Bestand": 40
+        },
+        {
+            "Artikelnummer": 1019,
+            "Bezeichnung": "Weste",
+            "Preis": 55,
+            "Bestand": 22
+        },
+        {
+            "Artikelnummer": 1020,
+            "Bezeichnung": "Mantel",
+            "Preis": 150,
+            "Bestand": 18
+        },
+        {
+            "Artikelnummer": 1021,
+            "Bezeichnung": "Krawatte",
+            "Preis": 25,
+            "Bestand": 80
+        },
+        {
+            "Artikelnummer": 1022,
+            "Bezeichnung": "Hut",
+            "Preis": 35,
+            "Bestand": 30
+        },
+        {
+            "Artikelnummer": 1023,
+            "Bezeichnung": "Cap",
+            "Preis": 20,
+            "Bestand": 100
+        },
+        {
+            "Artikelnummer": 1024,
+            "Bezeichnung": "Pyjama",
+            "Preis": 50,
+            "Bestand": 12
+        },
+        {
+            "Artikelnummer": 1025,
+            "Bezeichnung": "Bademantel",
+            "Preis": 70,
+            "Bestand": 10
+        },
+        {
+            "Artikelnummer": 1026,
+            "Bezeichnung": "Anzug",
+            "Preis": 200,
+            "Bestand": 15
+        },
+        {
+            "Artikelnummer": 1027,
+            "Bezeichnung": "Wanderschuhe",
+            "Preis": 110,
+            "Bestand": 20
+        },
+        {
+            "Artikelnummer": 1028,
+            "Bezeichnung": "Sportschuhe",
+            "Preis": 85,
+            "Bestand": 25
+        },
+        {
+            "Artikelnummer": 1029,
+            "Bezeichnung": "Trainingsanzug",
+            "Preis": 90,
+            "Bestand": 30
+        },
+        {
+            "Artikelnummer": 1030,
+            "Bezeichnung": "Kostüm",
+            "Preis": 130,
+            "Bestand": 8
+        }
+    ]
+}

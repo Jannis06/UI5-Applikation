@@ -1,0 +1,61 @@
+<core:FragmentDefinition 
+    xmlns="sap.m" 
+    xmlns:core="sap.ui.core"
+>
+
+    <!-- Dialog zum Erstellen eines Artikels -->
+    <Dialog
+        id="dialog"
+        title="Artikel erstellen"
+        draggable="true"
+        contentHeight="13rem" 
+        contentWidth="42rem"
+    >
+        <!-- Erste Zeile: Artikelnummer und Bezeichnung -->
+        <HBox class="sapUiLargeMarginBegin sapUiSmallMarginTopBottom">
+            <VBox>
+                <!-- Label und Eingabefeld für die Artikelnummer -->
+                <Label class="sapUiTinyMarginTop" showColon="true" text="Artikelnummer" width="17rem" required="true"></Label>
+                <Input id="inputArtikelnummer" width="17rem"></Input>
+            </VBox>
+            <!-- Abstandshalter -->
+            <ToolbarSpacer width="2rem"></ToolbarSpacer>
+            <VBox>
+                <!-- Label und Eingabefeld für die Bezeichnung -->
+                <Label class="sapUiTinyMarginTop" showColon="true" text="Bezeichnung" width="17rem" required="true"></Label>
+                <ToolbarSpacer width="1rem"></ToolbarSpacer>
+                <Input id="inputBezeichnung" width="17rem"></Input>
+            </VBox>
+        </HBox>
+        
+        <!-- Zweite Zeile: Preis und Bestand -->
+        <HBox class="sapUiLargeMarginBegin sapUiSmallMarginTopBottom">
+            <VBox>
+                <!-- Label und Eingabefeld für den Preis -->
+                <Label class="sapUiTinyMarginTop" showColon="true" text="Preis" width="17rem" required="true"></Label>
+                <Input id="inputPreis" width="17rem"></Input>
+            </VBox>
+            <!-- Abstandshalter -->
+            <ToolbarSpacer width="2rem"></ToolbarSpacer>
+            <VBox>
+                <!-- Label und Eingabefeld für den Bestand -->
+                <Label class="sapUiTinyMarginTop" showColon="true" text="Bestand" width="17rem" required="true"></Label>
+                <ToolbarSpacer width="1rem"></ToolbarSpacer>
+                <Input id="inputBestand" width="17rem"></Input>
+            </VBox>
+        </HBox>
+
+        <!-- Fußzeile mit Buttons -->
+        <footer>
+            <OverflowToolbar>
+                <!-- Platzhalter für Abstand -->
+                <ToolbarSpacer/>
+                <!-- Abbrechen-Button -->
+                <Button type="Ghost" text="Abbrechen" width="6rem" press="handleCancel"></Button>
+                <!-- Erstellen-Button -->
+                <Button type="Emphasized" text="Erstellen" width="6rem" press="handleConfirm" enabled="true"></Button>
+            </OverflowToolbar>
+        </footer>
+    </Dialog>
+
+</core:FragmentDefinition>
